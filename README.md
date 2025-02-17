@@ -48,6 +48,7 @@ Start the development server:
    ```
 
 Open `http://localhost:3000/` (or the port displayed in the terminal) in your browser.
+
 Note: Json server is set to serve in `http://localhost:5000/`
 
   
