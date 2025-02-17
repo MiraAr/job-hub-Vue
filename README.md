@@ -17,6 +17,7 @@ It is a simple Vue.js application with the basic functionalities to post update 
 - [Axios] (https://www.npmjs.com/package/axios) - Axios HTTP client.
 - [Primeicons] (https://www.npmjs.com/package/primeicons) - For the used icons.
 - [vue-toastification] (https://www.npmjs.com/package/vue-toastification) - For toasts.
+- [json-server] (https://www.npmjs.com/package/json-server) - create a Rest API to serve JSON data.
 
   ### Installation
 
@@ -47,5 +48,6 @@ Start the development server:
    ```
 
 Open `http://localhost:3000/` (or the port displayed in the terminal) in your browser.
+Note: Json server is set to serve in `http://localhost:5000/`
 
   
